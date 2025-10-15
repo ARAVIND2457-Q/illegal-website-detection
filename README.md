@@ -1,3 +1,6 @@
+# illegal-website-detection
+>>>>>>> b989d1f6f11bf2a4a8d1e99a24549f869350a67f
+=======
 # Illegal Website Detection and Blocking
 
 ## Overview
@@ -22,7 +25,7 @@ This project uses machine learning to detect and classify illegal websites, part
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/illegal-website-detection.git
+   git clone https://github.com/ARAVIND2457-Q/illegal-website-detection.git
    cd illegal-website-detection
    ```
 2. Install dependencies:
@@ -57,8 +60,11 @@ curl -X POST http://127.0.0.1:5000/predict -H "Content-Type: application/json" -
 - Expand classification to cover more types of illegal websites.
 
 ## Author
-Abhinay Dumpoju
+Aravind Dumpoju
 
 ---
 Feel free to contribute, raise issues, or suggest improvements! 🚀
 
+=======
+# illegal-website-detection
+>>>>>>> b989d1f6f11bf2a4a8d1e99a24549f869350a67f
