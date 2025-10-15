@@ -1,5 +1,4 @@
 # illegal-website-detection
->>>>>>> b989d1f6f11bf2a4a8d1e99a24549f869350a67f
 =======
 # Illegal Website Detection and Blocking
 
@@ -67,4 +66,4 @@ Feel free to contribute, raise issues, or suggest improvements! 🚀
 
 =======
 # illegal-website-detection
->>>>>>> b989d1f6f11bf2a4a8d1e99a24549f869350a67f
+>>>>>>
